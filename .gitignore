@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Project Specific
+products.json
+products_with_embeddings.json
+
+# Environment Variables
+.env
+
+# IDEs
+.vscode/
+.idea/
